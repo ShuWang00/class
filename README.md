@@ -1,2 +1,2 @@
 # class
-quicken loans Git/GitHub class lab
+Quicken Loans Git/GitHub class lab
