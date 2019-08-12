@@ -4,3 +4,6 @@
 sdfadfasdffdsafda
 asdf
 after deleting my local repo, cloned this one from my git account.
+adding three lines
+of text
+for our class
